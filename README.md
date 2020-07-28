@@ -5,4 +5,6 @@ Want to get in touch? You can reach me at:
 - [LinkedIn](https://www.linkedin.com/in/jonas-triki/)
 - [E-mail](https://mailhide.io/e/Z0aCM)
 
-![](https://i.imgur.com/Y3Slwoh.gif)
+<div align="center">
+  <img src="https://i.imgur.com/Y3Slwoh.gif">
+</div>
